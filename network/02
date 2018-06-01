@@ -1,1 +1,1 @@
-ifconfig eth0
+ifconfig en0
