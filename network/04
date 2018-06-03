@@ -1,1 +1,1 @@
-ifconfig en1 | grep -i ether
+netstat -nr | grep default
